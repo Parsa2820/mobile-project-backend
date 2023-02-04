@@ -9,4 +9,5 @@ public record Discount
     public string? Category { get; init; }
     public string? EndDate { get; init; }
     public string? Code { get; init; }
+    public string? Region { get; init; }
 }
