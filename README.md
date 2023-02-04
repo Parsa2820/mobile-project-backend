@@ -1,5 +1,5 @@
 # mobile-project-backend
-Backend for mobile programming course project, [Takhfifat](github.com/Parsa2820/mobile-project)
+Backend for mobile programming course project, [Takhfifat](https://github.com/Parsa2820/mobile-project)
 
 ## Prerequisites
 - [dotnet 7](https://dotnet.microsoft.com/download/dotnet/7.0)
